@@ -1,4 +1,4 @@
-import { data } from "./data.js";
+import { data } from "data.js";
 const Btns = document.querySelectorAll("button");
 const controls = document.querySelector(".controls");
 const cards = document.querySelectorAll(".card");
