@@ -12,7 +12,7 @@ export const data = [
     facebook: "https://www.facebook.com/anwartarek20?mibextid=ZbWKwL",
     instegram:
       "https://www.instagram.com/anwartarek20/profilecard/?igsh=bmY2OXJyeDN1aDh3",
-    photo: "/img/1.jpg",
+    photo: "img/1.jpg",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const data = [
     facebook: "https://www.facebook.com/kareemtarek333?mibextid=ZbWKwL",
     instegram:
       "https://www.instagram.com/kareemtarek219?igsh=MXVsbmsxdjdhNmd4aQ==",
-    photo: "/img/2.jpg",
+    photo: "img/2.jpg",
   },
 
   {
@@ -43,7 +43,7 @@ export const data = [
     facebook: "https://www.facebook.com/omar.fetoh?mibextid=ZbWKwL",
     instegram:
       "https://www.instagram.com/omarfetooh1?igsh=MWUycG45ZmUzZ3lmbA==",
-    photo: "/img/3.jpg",
+    photo: "img/3.jpg",
   },
   {
     id: 4,
@@ -56,7 +56,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "http://facebook.com",
     instegram: "http://instegram.com",
-    photo: "/img/4.jpg",
+    photo: "img/4.jpg",
   },
   {
     id: 5,
@@ -69,7 +69,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "https://www.facebook.com/profile.php?id=100093993813416&mibextid=ZbWKwL",
     instegram: "http://instegram.com",
-    photo: "/img/5.jpg",
+    photo: "img/5.jpg",
   },
   {
     id: 6,
@@ -82,7 +82,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "https://www.facebook.com/aymanabdelmonsef.abdelkareem?mibextid=ZbWKwL",
     instegram: "http://instegram.com",
-    photo: "/img/6.jpg",
+    photo: "img/6.jpg",
   },
   {
     id: 7,
@@ -95,7 +95,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "https://www.facebook.com/abdelrhmanhawadeen?mibextid=ZbWKwL",
     instegram: "http://instegram.com",
-    photo: "/img/7.jpg",
+    photo: "img/7.jpg",
   },
   {
     id: 8,
@@ -108,7 +108,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "https://www.facebook.com/eslam.abdo778?mibextid=ZbWKwL",
     instegram: "http://instegram.com",
-    photo: "/img/8.jpg",
+    photo: "img/8.jpg",
   },
   {
     id: 9,
@@ -121,7 +121,7 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "https://www.facebook.com/youssef.tolba.353?mibextid=ZbWKwL",
     instegram: "http://instegram.com",
-    photo: "/img/9.jpg",
+    photo: "img/9.jpg",
   },
   {
     id: 10,
@@ -134,6 +134,6 @@ export const data = [
     linkenin: "https://linkedin.com",
     facebook: "http://facebook.com",
     instegram: "http://instegram.com",
-    photo: "/img/10.jpg",
+    photo: "img/10.jpg",
   },
 ];
